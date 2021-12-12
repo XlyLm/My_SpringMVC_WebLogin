@@ -68,4 +68,4 @@ cookie在LoginController多个地方都有使用，这里只截了一张图
 
 6、输入用户信息，点击快速注册，将注册用户（手机号格式、验证码输入错误将提示，用户手机号已注册也会提示）
 ![image](https://user-images.githubusercontent.com/84628055/145697972-c7fffad2-e0f6-4ad6-b5c3-043af9858b31.png)
-
+如果输入正确，并且该手机号未注册，则注册成功，自动跳转到main页面
