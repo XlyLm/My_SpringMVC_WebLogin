@@ -54,3 +54,17 @@ cookie在LoginController多个地方都有使用，这里只截了一张图
 
 2、输入错误信息或不输入信息，点击登录将提示
 ![image](https://user-images.githubusercontent.com/84628055/145697456-0e9bd16a-c52a-4365-8d89-45355c0ca607.png)
+
+3、信息输入正确，进入main页面
+![image](https://user-images.githubusercontent.com/84628055/145697626-e6b10b32-5570-4055-8fb0-9af4bdf7784d.png)
+
+4、在main页面可以修改用户名和注销用户
+![image](https://user-images.githubusercontent.com/84628055/145697635-8cc220ff-b3c1-4d0e-a63c-d5bbbb3f4dc4.png)
+![image](https://user-images.githubusercontent.com/84628055/145697640-ea8a1722-850d-475d-bb89-f46fb532c330.png)
+
+5、短期登录后，可以在cookie期限内点击免密登录
+![image](https://user-images.githubusercontent.com/84628055/145697661-ee0abc6c-47bf-4852-933a-7fc8b82236e8.png)
+如果cookie过期将提示你超期，需要你输入信息登录
+
+6、输入用户信息，点击快速注册，将注册用户（手机号格式、验证码输入错误将提示，用户手机号已注册也会提示）
+
