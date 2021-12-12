@@ -35,6 +35,9 @@
 cookie在LoginController多个地方都有使用，这里只截了一张图
 ![image](https://user-images.githubusercontent.com/84628055/145697281-86af2701-97f4-4469-845c-b84ca32353a9.png)
 
+可以通过浏览器右击检查，找到Applicatiaon查看cookie
+![image](https://user-images.githubusercontent.com/84628055/145698236-05ac5beb-6cea-492c-b966-d81723c782b3.png)
+
 ## 五、启动
 
 1、下载仓库到本地
