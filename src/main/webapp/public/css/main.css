@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul,
+li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+
+a:focus {
+    text-decoration: none;
+}
+a{
+    margin:0 1.6em;
+    color: #795da3;
+}
+.container{
+    width:360px;
+    height:360px;
+    text-align: center;
+    line-height: 72px;
+    margin: 120px auto;
+}
+a:active {
+    color: #63a35c;
+     text-decoration: none;
+ }
+span{
+    color: #63a35c;
+}

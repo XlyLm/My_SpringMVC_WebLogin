@@ -1,0 +1,23 @@
+{
+  "id": "2949378",
+  "name": "login",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5093339",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "7577415",
+      "name": "24gl-lock2",
+      "font_class": "24gl-lock2",
+      "unicode": "e9d4",
+      "unicode_decimal": 59860
+    }
+  ]
+}
